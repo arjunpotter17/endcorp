@@ -11,7 +11,7 @@ const Mission = (props: Props) => {
           Our Mission
         </p>
         <p className="text-white w-full text-left text-[14px] end-md:text-[16px] end-lg:text-[20px] end-xl:text-[24px]">
-        At END Corp., our mission is to safeguard the world's most vital data, collected in space. 
+        At END Corp., our mission is to safeguard the world&apos;s most vital data, collected in space. 
 We are committed to developing innovative technologies that not only protect data from cyber threats but also enhance its reliability for critical decision-making processes. By pioneering secure, decentralised communication solutions, we aim to contribute to a more 
 
           <span className="text-end-light-blue  ">

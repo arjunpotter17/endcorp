@@ -12,7 +12,7 @@ const Product = (props: Props) => {
       </p>
       <p className="text-[14px] end-md:text-[20px] text-white">
       We are advancing a decentralised ground station system that incorporates blockchain technologies, such as zero-knowledge proofs and post-quantum encryption, to secure and verify satellite data at the point of reception on the ground. 
-Our scalable solution brings failsafe reliability to data collection on the ground, while offering more opportunities for data download from orbiting satellites on each rotation of the Earth, resulting in faster data acquisition for humanity's most important datasets. 
+Our scalable solution brings failsafe reliability to data collection on the ground, while offering more opportunities for data download from orbiting satellites on each rotation of the Earth, resulting in faster data acquisition for humanity&apos;s most important datasets. 
 
       </p>
       </div>
