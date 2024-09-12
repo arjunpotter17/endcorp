@@ -5,6 +5,7 @@ const Mission = (props: Props) => {
   return (
 
       <div
+        id="mission"
         className={`flex w-full max-w-[1100px] font-end-regular flex-col justify-center items-center h-full gap-y-[25px] py-[50px] end-md:py-[200px] px-4 end-md:px-10`}
       >
         <p className="text-white w-full text-left text-[30px] font-end-bold end-md:text-[40px] end-xl:text-[48px]">

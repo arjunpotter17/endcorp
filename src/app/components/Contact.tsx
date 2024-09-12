@@ -7,7 +7,7 @@ type Props = {};
 
 const Contact = (props: Props) => {
   return (
-    <div className="flex max-w-[1100px] flex-col justify-center items-start font-end-normal w-full gap-y-2 end-md:gap-y-4 text-white py-[50px] end-md:py-[100px] px-4 end-md:px-10">
+    <div id="contact" className="flex max-w-[1100px] flex-col justify-center items-start font-end-normal w-full gap-y-2 end-md:gap-y-4 text-white py-[50px] end-md:py-[100px] px-4 end-md:px-10">
       <p className="text-[30px] end-md:text-[40px] end-xl:text-[48px] font-end-bold">
         Get in touch
       </p>

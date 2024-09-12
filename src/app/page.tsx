@@ -21,7 +21,7 @@ export default function Home() {
   const [contactRef, contactInView] = useInView({ triggerOnce: true, threshold: 0.2 });
 
   return (
-    <div className="w-full items-center justify-center flex flex-col gap-y-5 end-md:gap-y-10">
+    <div className="w-full items-center justify-center flex flex-col gap-y-5 end-md:gap-y-10 mt-[72px]">
       <Header />
       
       {/* Mission Section with Fade-in Animation */}

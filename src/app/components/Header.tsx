@@ -11,7 +11,7 @@ const Header = (props: Props) => {
   return (
   
       <div
-
+        id='home'
         className="flex max-w-[1100px] w-full font-end-normal flex-col gap-y-10 end-md:flex-row-reverse justify-center items-center end-md:justify-between min-h-screen gap-x-10 px-4 end-md:px-10"
       >
         <div className="w-full flex justify-center max-h-[450px] max-w-[450px]">

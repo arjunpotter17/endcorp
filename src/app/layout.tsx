@@ -1,6 +1,7 @@
 import type { Metadata } from "next";
 import { Inter } from "next/font/google";
 import "./globals.css";
+import Navbar from "./components/navbar";
 
 
 export const metadata: Metadata = {
@@ -15,7 +16,9 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="en">
-      <body className="w-[100vw] h-[100vh] bg-end-bg-black">{children}</body>
+      <body className="w-[100vw] h-[100vh] bg-end-bg-black">
+        <Navbar/>
+        {children}</body>
     </html>
   );
 }
