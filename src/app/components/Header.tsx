@@ -15,7 +15,7 @@ const Header = (props: Props) => {
         className="flex max-w-[1100px] w-full font-end-normal flex-col gap-y-10 end-md:flex-row-reverse justify-center items-center end-md:justify-between min-h-screen gap-x-10 px-4 end-md:px-10"
       >
         <div className="w-full flex justify-center max-h-[450px] max-w-[450px]">
-          <Image src={"/images/endcorp.png"} alt="Logo" height={450} width={450} className="w-full h-full" />
+          <Image src={"/images/world.svg"} alt="Logo" height={450} width={450} className="w-full h-full" />
         </div>
         <div className="flex flex-col justify-between gap-y-8 w-full">
           <p className="text-white text-[40px] font-endcoin-bold endcoin-lg:text-[48px] endcoin-xl:text-[64px] leading-none">
